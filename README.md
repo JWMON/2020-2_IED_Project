@@ -1,6 +1,5 @@
 # 2020-2_IED_Project
-## Group 9
-## 박주원 신민주 김예안 정지민
+## Group 9 - 박주원 신민주 김예안 정지민
 
 __Slide:__ [Slide](https://github.com/WHLee-HGU/2020-2_IED_Project/blob/main/IED-1%20Presentations%20(1019)/9.pdf)
 
