@@ -19,20 +19,37 @@ Provide necessary treatments for patients with mental illness
         c. Finalize Problem statement (30min)
         
         d. Create full list of objectives and constraints (30min)
+        
         e. Create PCM (2hrs)
+        
         f. Create objective tree (1hr)
+        
         g. Create Gant chart (1hr)
+        
         h. Create WBS (1hr)
+        
   2. Brainstorming for Solutions
+  
         a. Research solutions (3hrs)
+        
         b. Compare solutions (1hr)
+        
         c. Finalize solution (30min)
+        
   3. Find details about the Solution
+  
         a. Research interviews or facts about solution (3hrs)
+        
   4. Final Report
+  
         a. Organize research results (1hr)
+        
         b. Write final report (3hrs)
+        
         c. Review and finalize report (2hrs)
+        
   5. Presentation
+  
         a. Create presentation slides (2hrs)
+        
         b. Practice presentation (2hrs)
