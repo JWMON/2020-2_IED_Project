@@ -7,11 +7,17 @@ __Video:__ [Video](https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8710s)
 
 
 #WBS
+
 Provide necessary treatments for patients with mental illness
+
   1. Preliminary work
+  
         a. Examine problem statement (30min) 
+        
         b. Research problem statement (3hrs)
+        
         c. Finalize Problem statement (30min)
+        
         d. Create full list of objectives and constraints (30min)
         e. Create PCM (2hrs)
         f. Create objective tree (1hr)
