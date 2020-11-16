@@ -7,7 +7,6 @@ __Video:__ [Video](https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8710s)
 
 
 #WBS
-WBS
 Provide necessary treatments for patients with mental illness
   1. Preliminary work
         a. Examine problem statement (30min) 
