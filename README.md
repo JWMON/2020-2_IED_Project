@@ -3,5 +3,5 @@
 ## Negative Pressure Unit with Group Therapy
 __Slide:__ [Slide](https://github.com/WHLee-HGU/2020-2_IED_Project/blob/main/IED-1%20Presentations%20(1019)/9.pdf)
 
-__Video:__ [Video](https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8710s)
+__Video:__ [Video](https://youtu.be/x1z1FNl1v4A)
 <img src="https://user-images.githubusercontent.com/48053063/102714592-fabb8e00-4312-11eb-850f-a48a4fd16ce7.png"></img>
